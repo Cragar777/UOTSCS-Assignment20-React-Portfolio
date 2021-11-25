@@ -40,7 +40,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ```
 **Application Photo:**
 
-![work-feelings](https://user-images.githubusercontent.com/85413293/143379197-d17fa867-7cc3-45a6-a82d-365a2ffeb156.png)
+![ReactPortfolio](https://user-images.githubusercontent.com/85413293/143380727-49583898-dea2-4ae0-88dd-f0a1c2f48428.png)
 
 
 **Link to Deployed App on Heroku:**
