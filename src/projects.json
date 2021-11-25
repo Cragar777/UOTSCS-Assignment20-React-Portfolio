@@ -1,0 +1,44 @@
+[
+    {
+      "id": "project-one", 
+      "name": "Health Fusion", 
+      "description": "MERN Stack", 
+      "pageUrl": "https://health-fusion1284.herokuapp.com", 
+      "githubUrl": "https://github.com/utor2021/health-fusion.git"
+    },
+    {
+      "id": "project-two", 
+      "name": "Work Feelings", 
+      "description": "MVC | Sequelize | Node.js | RESTful API", 
+      "pageUrl": "https://work-feelings.herokuapp.com/", 
+      "githubUrl": "https://github.com/utor2021/Work-feelings.git"
+    },
+    {
+      "id": "project-three", 
+      "name": "Budget Tracker",
+      "description": "Express | Mongoose", 
+      "pageUrl": "https://salty-journey-26168.herokuapp.com/", 
+      "githubUrl": "https://github.com/Cragar777/UOTSCS-Assignment19-Budget-Tracker.git"
+    },
+    {
+      "id": "project-four", 
+      "name": "Note Taker", 
+      "description": "Express.js", 
+      "pageUrl": "https://infinite-shore-57638.herokuapp.com/", 
+      "githubUrl": "https://github.com/Cragar777/UOTSCS-Assignment11-Note-Taker.git"
+    },
+    {
+      "id": "project-five", 
+      "name": "Workday Scheduler", 
+      "description": "Bootstrap | jQuery", 
+      "pageUrl": "https://cragar777.github.io/UOTSCS-Assignment5-Workday-Scheduler/", 
+      "githubUrl": "https://github.com/Cragar777/UOTSCS-Assignment5-Workday-Scheduler.git"
+    },
+    {
+      "id": "project-six", 
+      "name": "Weather Dashboard", 
+      "description": "Javascript | Server-side API", 
+      "pageUrl": "https://cragar777.github.io/UOTSCS-Assignment6-Weather-Dashboard/", 
+      "githubUrl": "https://github.com/Cragar777/UOTSCS-Assignment6-Weather-Dashboard.git"
+    }
+  ]
